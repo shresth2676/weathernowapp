@@ -1,5 +1,5 @@
 name: weather_now
-description: "A new Flutter project."
+description: "WeatherNow is a Flutter weather app that fetches live location-based weather data."
 publish_to: 'none'
 
 version: 0.0.1
